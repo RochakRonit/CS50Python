@@ -1,4 +1,4 @@
-# Trigonometric Functions by Ronak Patel
+# Trigonometric Functions by Rochak Ronit
 
 #### Video Demo: https://youtu.be/f6z6uZottb0
 

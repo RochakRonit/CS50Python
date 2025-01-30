@@ -1,4 +1,4 @@
-I did this course for 12 weeks under mentorship of Professor David J Malan and his team.
+I did this course for 12 weeks under mentorship CS50 Team
 
 Fun Fact : I look over Hints in my second attempts after screwing a single quates and wasted 15 mins banging againtst both of my monitors.
 
